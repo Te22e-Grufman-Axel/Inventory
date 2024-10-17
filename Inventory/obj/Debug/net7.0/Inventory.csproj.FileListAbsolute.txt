@@ -1,0 +1,14 @@
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\bin\Debug\net7.0\Inventory.exe
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\bin\Debug\net7.0\Inventory.deps.json
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\bin\Debug\net7.0\Inventory.runtimeconfig.json
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\bin\Debug\net7.0\Inventory.dll
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\bin\Debug\net7.0\Inventory.pdb
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.AssemblyInfoInputs.cache
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.AssemblyInfo.cs
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.csproj.CoreCompileInputs.cache
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.dll
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\refint\Inventory.dll
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.pdb
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\Inventory.genruntimeconfig.cache
+c:\Users\axel.grufman\Documents\programering\Inventory\Inventory\obj\Debug\net7.0\ref\Inventory.dll
